@@ -1,0 +1,20 @@
+
+
+.board-content {
+    display: flex;
+    overflow-x: auto;
+    margin: 0 var(--gap-10) var(--gap-10);
+
+    &::-webkit-scrollbar {
+        -webkit-appearance: none;
+    }
+
+    &::-webkit-scrollbar:horizontal {
+        height: 11px;
+    }
+
+    &::-webkit-scrollbar-thumb {
+        background-color: rgba(255, 255, 255, .24);
+        border-radius: 8px;
+    }
+}
