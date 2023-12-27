@@ -1,9 +1,7 @@
 import './AppBar.scss';
 
 const AppBar = () => {
-  return (
-    <nav className="navbar-app">App Bar</nav>
-  );
+  return <nav className="navbar-app">App Bar</nav>;
 };
 
 export default AppBar;
