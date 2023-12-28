@@ -8,7 +8,7 @@ export const initialData = {
           id: 'column-1',
           boardId: 'board-1',
           title: 'To do column',
-          cardOder: [
+          cardOrder: [
             'card-1',
             'card-2',
             'card-3',
