@@ -8,7 +8,7 @@ export const initialData = {
           id: 'column-1',
           boardId: 'board-1',
           title: 'To do column',
-          cardOrder: [
+          cardOder: [
             'card-1',
             'card-2',
             'card-3',
@@ -24,7 +24,7 @@ export const initialData = {
               columnId: 'column-1',
               title: 'Title of card 1',
               cover:
-                'https://scontent.cdninstagram.com/v/t51.2885-15/412550899_1095097411501991_8171364124495998459_n.jpg?stp=dst-jpg_e35&efg=eyJ2ZW5jb2RlX3RhZyI6ImltYWdlX3VybGdlbi4xNDQweDEwODAuc2RyIn0&_nc_ht=scontent.cdninstagram.com&_nc_cat=111&_nc_ohc=0sX5WC0J-vEAX-h3EnW&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzI2NDM3Mzc3NTE2MDE3NzE3OQ%3D%3D.2-ccb7-5&oh=00_AfC-vpX-9x0HGwPgBbfCJHkczlufVqgSf_2dBR5v5pey_w&oe=658EC9E8&_nc_sid=10d13b',
+                'https://trungquandev.com/wp-content/uploads/2021/06/mern-stack-trungquandev-youtube-thumnail-awesome-course-1024x576.png',
             },
             {
               id: 'card-2',
